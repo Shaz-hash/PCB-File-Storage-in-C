@@ -1,0 +1,2 @@
+copy_in Makefile /foo/abc 
+copy_out /foo/abc Makefile2
